@@ -136,15 +136,6 @@
                                     <action selector="tapClearButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CuG-Tz-qHJ"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2ak-XK-cxW">
-                                <rect key="frame" x="44" y="535" width="288" height="60"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                <state key="normal" title="＝"/>
-                                <connections>
-                                    <segue destination="apx-FN-lBb" kind="presentation" id="cCt-Uh-xD4"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SXx-Eq-bDj">
                                 <rect key="frame" x="0.0" y="451" width="70" height="70"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -179,6 +170,15 @@
                                 <state key="normal" title="➖"/>
                                 <connections>
                                     <action selector="hikuButoon:" destination="BYZ-38-t0r" eventType="touchUpInside" id="c2a-Vn-UKB"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2ak-XK-cxW">
+                                <rect key="frame" x="44" y="535" width="288" height="60"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="50"/>
+                                <state key="normal" title="＝"/>
+                                <connections>
+                                    <segue destination="apx-FN-lBb" kind="presentation" id="cCt-Uh-xD4"/>
                                 </connections>
                             </button>
                         </subviews>
