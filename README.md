@@ -6,7 +6,7 @@ Overview　![計算機](https://user-images.githubusercontent.com/66149009/86844
 
 ## Description
 
-## Demo https://github.com/norimasashirai/myCalc/issues/1#issue-652624771
+## Demo　![MyCalc](https://user-images.githubusercontent.com/66149009/86839399-5505c100-c0dc-11ea-86b8-9bb8f9e00508.gif)
 
 ## VS. 
 
