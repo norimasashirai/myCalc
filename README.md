@@ -2,7 +2,7 @@ Name
 # myCalc
 ====
 
-Overview　https://github.com/norimasashirai/myCalc/issues/2#issue-652653087
+Overview　![計算機](https://user-images.githubusercontent.com/66149009/86844194-a6b14a00-c0e2-11ea-81d2-320d95ebf356.png)
 
 ## Description
 
