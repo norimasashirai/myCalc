@@ -15,6 +15,8 @@ Name
 ## Requirement
 
 ## Usage
+　
+Just press the screen.
 
 ## Install
 
