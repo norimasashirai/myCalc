@@ -1,12 +1,11 @@
 Name
 # myCalc
-====
-
-Overview　![計算機](https://user-images.githubusercontent.com/66149009/86844194-a6b14a00-c0e2-11ea-81d2-320d95ebf356.png)
+　![計算機](https://user-images.githubusercontent.com/66149009/86844194-a6b14a00-c0e2-11ea-81d2-320d95ebf356.png)
 
 ## Description
 
-## Demo　![MyCalc](https://user-images.githubusercontent.com/66149009/86839399-5505c100-c0dc-11ea-86b8-9bb8f9e00508.gif)
+## Demo
+![MyCalc](https://user-images.githubusercontent.com/66149009/86839399-5505c100-c0dc-11ea-86b8-9bb8f9e00508.gif)
 
 ## VS. 
 
