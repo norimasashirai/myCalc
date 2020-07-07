@@ -4,6 +4,7 @@ Name
 
 ## Description
 　Smartphones are really useful. I can use a calculator wherever I go, whenever I want to.
+ 
 　訳: スマホは便利ですね。どこいっても、どんなときでも、計算機できますからね～
 
 ## Demo
