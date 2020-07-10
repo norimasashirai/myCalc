@@ -12,7 +12,7 @@ Name
 
 ## Usage
 　
-Just press the screen.
+Just press the screen.　　Will calculate！
 
 ## Install
 
