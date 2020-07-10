@@ -10,10 +10,6 @@ Name
 ## Demo
 ![MyCalc](https://user-images.githubusercontent.com/66149009/86839399-5505c100-c0dc-11ea-86b8-9bb8f9e00508.gif)
 
-## VS. 
-
-## Requirement
-
 ## Usage
 　
 Just press the screen.
