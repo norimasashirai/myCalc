@@ -14,14 +14,6 @@ Name
 　
 Just press the screen.　　Will calculate！
 
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[norimasashirai](https://github.com/norimasashirai)
